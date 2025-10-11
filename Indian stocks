@@ -1,0 +1,4 @@
+macd_script.py          ← main Python code to download + compute
+tickers.csv             ← your list of 650 stocks
+macd_output/            ← daily updated charts + CSVs
+.github/workflows/run.yml ← automation file
